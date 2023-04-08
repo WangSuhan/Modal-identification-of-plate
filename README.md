@@ -14,13 +14,14 @@ Modal analysis is a modern method to study the dynamic characteristics of struct
   
   * Single mode recognition-calculus of differences
   
-  This is the effect of the single mode identification method, and the crest is the natural frequency. 
+    This is the effect of the single mode identification method, and the crest is the natural frequency. 
   ![image](https://github.com/WangSuhan/Modal-identification-of-plate/blob/main/Difference%20method%20fitting.png)
   
-  These are the first to fourth order modes of the plate
+    These are the first to fourth order modes of the plate
   
   ![image](https://github.com/WangSuhan/Modal-identification-of-plate/blob/main/mode%20of%20vibration.png)
   
   * Multimodal recognition-Nonlinear weighted least square method
-  This is the effect of the multi-mode identification method, and the crest is the natural frequency. 
+ 
+    This is the effect of the multi-mode identification method, and the crest is the natural frequency. 
   ![image](https://github.com/WangSuhan/Modal-identification-of-plate/blob/main/Difference%20method%20fitting.png)
